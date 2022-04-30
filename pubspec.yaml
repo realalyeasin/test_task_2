@@ -38,6 +38,7 @@ dependencies:
   fancy_bottom_navigation: ^0.3.3
   http: ^0.13.4
   font_awesome_flutter: ^10.1.0
+  skeletons: ^0.0.3
 
 dev_dependencies:
   flutter_test:

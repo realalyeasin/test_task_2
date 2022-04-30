@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:test_task_2/Module-Home/Controllers/home_controller.dart';
 
-import '../../Module-Product/Views/offers.dart';
+import '../../Module-Product/Views/Offers/offers.dart';
 
 class HomeView extends GetView<HomeController> {
   @override
